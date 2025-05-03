@@ -19,7 +19,7 @@ I’m a passionate Full-Stack Web Developer specializing in the MERN stack (Mong
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahid66&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/shahid66)  
+
 
 
 
